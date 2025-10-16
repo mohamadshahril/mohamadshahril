@@ -5,11 +5,10 @@ Welcome to my GitHub profile! I'm currently learning how to use **GitHub** and e
 ## 🌱 What I'm Learning
 - GitHub basics: commits, branches, pull requests, and version control
 - System development fundamentals: backend logic, architecture, and deployment
-- Tools like Laravel, Vue.js, SQL Server, and Android SDK
 
 ## 🎯 Goals
 - Build and document small projects to practice GitHub workflows
-- Automate environment setup for Laravel and Android development
+- Automate environment setup for Laravel and Mobile development
 - Learn how to collaborate and contribute to open-source projects
 
 ## 📂 Repositories
